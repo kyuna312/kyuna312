@@ -1,7 +1,5 @@
-### Hi there 👋
+### 💞✝️👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞✝️👠⚜️ 
 
-I like to discover research solutions around the computation systems, 
-Cyber-security and front-end development . Most of my time spend on playing DotA 2, League of Legends watching anime over and over again. 
 
 - 🔭 Possess expertise in secure product development, superior technical
   skills, and proven ability to manage complex tasks.
