@@ -4,8 +4,8 @@
 ### Amana Misa Profile ###
 
 <p align="center">
-  <img src="./photos/sakura.jpeg" />
-  <img src="./photos/banner.jpeg" />
+  <img src="./photos/sakura.jpg" />
+  <img src="./photos/banner.jpg" />
 </p>
 
 
