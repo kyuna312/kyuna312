@@ -1,15 +1,15 @@
 ### 💞✝️👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞✝️👠⚜️ 
 
 
-<p align="center">
-  <img src="./photos/quote.png" />
-</p>
-
 ### Amana Misa Profile ###
 
 <p align="center">
-  <img src="./photos/profile.jpeg" />
-</p>s
+  <img src="./photos/sakura.jpeg" />
+  <img src="./photos/banner.jpeg" />
+</p>
+
+
+
 
 
 
