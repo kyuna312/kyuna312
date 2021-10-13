@@ -1,5 +1,7 @@
 ### 💞✝️👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞✝️👠⚜️ 
 
+### Activattion key: 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  ###
+
 
 ### Amana Misa Profile ###
 
@@ -7,11 +9,6 @@
   <img src="./photos/sakura.jpg" />
   <img src="./photos/banner.jpg" />
 </p>
-
-
-
-
-
 
 
 - 🔭 Possess expertise in secure product development, superior technical
