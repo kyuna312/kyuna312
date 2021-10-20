@@ -32,3 +32,4 @@
 https://elements.envato.com/saasland-multipurpose-react-template-for-startup-G9GL8CV
 
 https://elements.envato.com/prokit-personal-portfolio-template-UK9PAGD
+https://elements.envato.com/zimed-react-next-app-landing-page-template-9R49DH7
