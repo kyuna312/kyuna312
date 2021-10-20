@@ -27,7 +27,4 @@
 
 ###   Plick project example
 
-* https://github.com/wdwdwdwdwdwdwd/Insta-Shop
-* https://github.com/search?l=Dart&p=72&q=instagram+flutter&type=Repositories
-* https://github.com/cyblogerz/Nallagram-hacktoberfest21-flutter
-* 
+* https://elements.envato.com/masnoo-multipurpose-landing-page-template-2LH5JY6?_ga=2.33938337.1832430037.1634706112-1197559365.1634706112&utm_campaign=envato-blog_marketing_top-10-landing-page-templates&utm_medium=referral&utm_source=blog
