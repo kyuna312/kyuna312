@@ -28,3 +28,5 @@
 ###   Plick project example
 
 * https://elements.envato.com/masnoo-multipurpose-landing-page-template-2LH5JY6?_ga=2.33938337.1832430037.1634706112-1197559365.1634706112&utm_campaign=envato-blog_marketing_top-10-landing-page-templates&utm_medium=referral&utm_source=blog
+
+https://elements.envato.com/saasland-multipurpose-react-template-for-startup-G9GL8CV
