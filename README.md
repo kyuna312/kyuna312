@@ -38,20 +38,4 @@
 test template
 
 
-* https://elements.envato.com/webmania-agency-startup-and-saas-template-ABB35T7
-
-* https://elements.envato.com/universal-smart-multi-purpose-html5-template-6QC6E9
-
-* https://elements.envato.com/core-one-page-responsive-html5-template-BM8E2L
-
-* https://elements.envato.com/merio-creative-one-page-parallax-8WADXJ
-
-* https://apiton-nuxt.netlify.app/?storefront=envato-elements
-
-
-
-
-* https://elements.envato.com/hexagon-agency-startup-and-saas-template-QSN7859
-* https://elements.envato.com/gimpo-app-landing-page-html-template-TQNUZUX
-* https://elements.envato.com/binmp-app-and-software-landing-html-template-FD8QMQ
-*https://elements.envato.com/sassbeyond-sass-software-landing-page-template-QHB2EZN
+* https://webflow.com/templates/html/bold-cms-app-website-template
