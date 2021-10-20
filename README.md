@@ -39,3 +39,4 @@ test template
 
 
 * https://webflow.com/templates/html/bold-cms-app-website-template
+* https://az-boldcms.webflow.io/
