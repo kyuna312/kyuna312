@@ -40,3 +40,38 @@ test template
 
 * https://webflow.com/templates/html/bold-cms-app-website-template
 * https://az-boldcms.webflow.io/
+
+
+### Sodcard d ashiglaj boloh template uuud
+
+* https://webflow.com/templates/html/stark-app-website-template
+* https://webflow.com/templates/html/playapp-app-website-template
+* https://webflow.com/templates/html/mojito-app-website-template
+* https://webflow.com/templates/html/aurora-app-website-template
+* https://webflow.com/templates/html/happy-app-website-template
+* https://webflow.com/templates/html/bold-app-website-template
+* https://webflow.com/templates/html/seeit-app-website-template
+* https://webflow.com/templates/html/appish-app-website-template
+* https://webflow.com/templates/html/pixel-app-website-template
+* https://webflow.com/templates/html/focusfox-app-website-template
+* https://webflow.com/templates/html/smool-app-website-template
+* https://webflow.com/templates/html/app-x-app-website-template
+* https://webflow.com/templates/html/finni-app-website-template
+* https://webflow.com/templates/html/ozone-app-website-template
+* https://webflow.com/templates/html/musk-app-website-template
+* https://webflow.com/templates/html/banky-app-website-template
+* https://webflow.com/templates/html/dark-x-app-website-template
+* https://webflow.com/templates/html/startapp-website-template
+* https://webflow.com/templates/html/apps-ecommerce-website-template
+* https://webflow.com/templates/html/crypto-app-website-template
+* https://webflow.com/templates/html/courseapp-app-website-template
+* https://webflow.com/templates/html/playapp-app-website-template
+* https://webflow.com/templates/html/apps-app-website-template
+* https://webflow.com/templates/html/landingos-app-website-template
+* https://webflow.com/templates/html/finapp-app-website-template
+* https://webflow.com/templates/html/cleo-ui-kit-website-template
+* https://webflow.com/templates/html/appstarter-ui-kit-website-template
+* https://webflow.com/templates/html/pegasus-ui-kit-website-template
+* https://webflow.com/templates/html/techplus-x-technology-website-template
+* https://webflow.com/templates/html/saasable-saas-website-template
+* https://webflow.com/templates/html/saaslify-x-saas-website-template
