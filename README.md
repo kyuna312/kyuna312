@@ -32,3 +32,10 @@
 
 # SODSTACK 
 https://startapp-template.webflow.io/
+
+
+* barter and buy button user tald 
+* baraa boost 
+* logo vibe+ 
+* color yellow
+
