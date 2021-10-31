@@ -23,19 +23,25 @@
   <img align="left" alt="C" width="50px" src="./photos/node.png" />
 </p>
 
+# Sod Mongol ажил 
 
+* [ ] Landing page бүтэц жигдэлж дуусах 
+```
+  https://startapp-template.webflow.io/
+```
 
-###   Plick project example
+# Vibe Plus 
+* [ ] Flutter Lesson үзэх
+* [ ] Үндсэн архитектураар өрж дуусах
+* [ ] firebase холболт хийж дуусгах 
+* [ ] тестлэх 
 
-* https://elements.envato.com/masnoo-multipurpose-landing-page-template-2LH5JY6?_ga=2.33938337.1832430037.1634706112-1197559365.1634706112&utm_campaign=envato-blog_marketing_top-10-landing-page-templates&utm_medium=referral&utm_source=blog
-
-
-# SODSTACK 
-https://startapp-template.webflow.io/
-
-
-* barter and buy button user tald 
-* baraa boost 
-* logo vibe+ 
-* color yellow
-
+* [ ] Апп хийж чаддаг байх зүйлс 
+```
+  1. Зураг оруулах барааны 
+  2. Чатлах
+  3. Пост бүүст хийдэг байх
+  4. багцтай байх
+  5. Өнгө солих шар
+  6. Barter товч хийх Buy button ний хажууд байна
+```
