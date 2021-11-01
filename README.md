@@ -25,7 +25,7 @@
 
 # Sod Mongol ажил 
 
-* [ ] Landing page бүтэц жигдэлж дуусах 
+* [x] Landing page бүтэц жигдэлж дуусах 
 ```
   https://startapp-template.webflow.io/
 ```
