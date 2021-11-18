@@ -1,7 +1,6 @@
-### 💞✝️👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞✝️👠⚜️ 
+# 💞✝️👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞✝️👠⚜️ 
 
-
-### Amana Misa Profile ###
+# Amana Misa Profile #
 
 <p align="center">
   <img src="./photos/sakura.jpg" />
@@ -30,18 +29,19 @@
   https://startapp-template.webflow.io/
 ```
 
-# Vibe Plus 
-* [ ] Flutter Lesson үзэх
-* [ ] Үндсэн архитектураар өрж дуусах
-* [ ] firebase холболт хийж дуусгах 
-* [ ] тестлэх 
+# Sod Mongol Group ItSolutions 
+* [x] Flutter Lesson үзэх
+* [x] Үндсэн архитектураар өрж дуусах
+* [x] firebase холболт хийж дуусгах 
+* [x] тестлэх 
+
+# VibePlus simple project
 
 * [ ] Апп хийж чаддаг байх зүйлс 
 ```
   1. Зураг оруулах барааны 
   2. Чатлах
   3. Пост бүүст хийдэг байх
-  4. багцтай байх
-  5. Өнгө солих шар
-  6. Barter товч хийх Buy button ний хажууд байна
+  4. Өнгө солих шар
+  5. Barter товч хийх Buy button ний хажууд байна
 ```
