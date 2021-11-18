@@ -3,8 +3,7 @@
 # Amana Misa Profile #
 
 <p align="center">
-  <img src="./photos/sakura.jpg" width="500" height="600" />
-  <img src="./photos/banner.jpg" width="500" height="600" />
+  <img src="./photos/sakura.jpg" />
 </p>
 
 
