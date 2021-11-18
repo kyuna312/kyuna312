@@ -1,10 +1,10 @@
-# 💞✝️👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞✝️👠⚜️ 
+## 💞✝️👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞✝️👠⚜️ 
 
 # Amana Misa Profile #
 
 <p align="center">
-  <img src="./photos/sakura.jpg" />
-  <img src="./photos/banner.jpg" />
+  <img src="./photos/sakura.jpg" width="500" height="600" />
+  <img src="./photos/banner.jpg" width="500" height="600" />
 </p>
 
 
