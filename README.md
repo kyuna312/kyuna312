@@ -21,18 +21,11 @@
   <img align="left" alt="C" width="50px" src="./photos/node.png" />
 </p>
 
-# Sod Mongol ажил 
-
-* [x] Landing page бүтэц жигдэлж дуусах 
-```
-  https://startapp-template.webflow.io/
-```
-
 # Sod Mongol Group ItSolutions 
 * [x] Flutter Lesson үзэх
 * [x] Үндсэн архитектураар өрж дуусах
-* [x] firebase холболт хийж дуусгах 
-* [x] тестлэх 
+* [ ] Rain Project
+* [ ] Vibe Plus
 
 # VibePlus simple project
 
