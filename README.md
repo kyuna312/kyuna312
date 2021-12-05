@@ -24,16 +24,5 @@
 # Sod Mongol Group ItSolutions 
 * [x] Flutter Lesson үзэх
 * [x] Үндсэн архитектураар өрж дуусах
-* [ ] Rain Project
-* [ ] Vibe Plus
-
-# VibePlus simple project
-
-* [ ] Апп хийж чаддаг байх зүйлс 
-```
-  1. Зураг оруулах барааны 
-  2. Чатлах
-  3. Пост бүүст хийдэг байх
-  4. Өнгө солих шар
-  5. Barter товч хийх Buy button ний хажууд байна
-```
+* [x] Rain Project
+* [x] Vibe Plus
