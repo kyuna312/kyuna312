@@ -3,7 +3,7 @@
 
 ## 💞👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞👠⚜️ 
 
-
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
 
 
 <p align="center">
