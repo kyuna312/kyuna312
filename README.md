@@ -6,8 +6,7 @@
 
 
 <p align="center">
-  <img src="./photos/canvas.png" height="350" width="350" />
-  ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
+  <img src="./photos/canvas.png" height="350" />
 </p>
 
 
@@ -36,3 +35,6 @@
   <img align="left" alt="C" width="50px" src="./photos/node.png" />
   <!-- <img align="left" alt="C" width="50px" src="./photos/flutter.png" /> -->
 </p>
+
+
+![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
