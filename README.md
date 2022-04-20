@@ -6,8 +6,8 @@
 
 
 <p align="center">
-<!--   <img src="./photos/canvas.png" height="350" /> -->
-  <div class="tenor-gif-embed" data-postid="21134395" data-share-method="host" data-aspect-ratio="1.41593" data-width="100%"><a href="https://tenor.com/view/fuck-you-anime-glasses-office-lady-jarrel-gif-21134395">Fuck You Anime GIF</a>from <a href="https://tenor.com/search/fuck+you-gifs">Fuck You GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+   <img src="./photos/canvas.png" height="350" />
+<!--   <div class="tenor-gif-embed" data-postid="21134395" data-share-method="host" data-aspect-ratio="1.41593" data-width="100%"><a href="https://tenor.com/view/fuck-you-anime-glasses-office-lady-jarrel-gif-21134395">Fuck You Anime GIF</a>from <a href="https://tenor.com/search/fuck+you-gifs">Fuck You GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
 </p>
 
 
