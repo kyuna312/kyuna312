@@ -1,22 +1,12 @@
 <p align="center">
-   <img src="https://64.media.tumblr.com/efedfab409c579eee3dc0529b610d02a/c3a594e03573c02e-10/s540x810/03b0eddb4a5d6db56c807be81b434a2d24342d68.gifv" height="500", width="800" />
+   <img src="https://64.media.tumblr.com/efedfab409c579eee3dc0529b610d02a/c3a594e03573c02e-10/s540x810/03b0eddb4a5d6db56c807be81b434a2d24342d68.gifv" height="400", width="800" />
 </p>
 
 ### Hi there 👋 , I am Jas03mine(Amane312)   <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 
 ### 💞👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞👠⚜️ 
 
-<p align="center">
-   <img src="./photos/canvas.png" height="350" />
-</p>
-
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=amane312.visitor-badge)
-
-My name is Khatanzorig Baatarsuren. Please call me Amane 😎  
-I have about 2 or 3 year's experience in programming.  
-Currently, I work at SodMongol as Front-End developer.  
-
-See more about me: 
 
 # About Me 
 - 🔭 Possess expertise in secure product development, superior technical
@@ -33,8 +23,6 @@ See more about me:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amane312&layout=compact&langs_count=8&theme=github_dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=amane312&theme=darkhub)
 
-
-
 ![Dart](https://img.shields.io/badge/Dart-00b4ab.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Objective-C](https://img.shields.io/badge/Objective--c-blue.svg?style=for-the-badge&logo=objc)
@@ -43,6 +31,3 @@ See more about me:
 ![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
 
 </p> -->
-
-
-![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
