@@ -15,10 +15,7 @@
 - 👀 I’m interested in Machine Learning, NLP, Speech.
 - 🌱 I’m currently learning something new.
 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/amane312/contributions.svg)](http://qiita.com/amane312)
-
-[![mono0926's github stats](https://github-readme-stats.vercel.app/api?username=amane312)](https://github.com/amane312/github-readme-stats)
-
+<!-- [![My Qiita contributions](https://qiita-badge.apiapi.app/s/amane312/contributions.svg)](http://qiita.com/amane312) -->
 ![Jas03mine-'s github stats](https://github-readme-stats.vercel.app/api?username=amane312&count_private=true&show_icons=true&theme=github_dark) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amane312&layout=compact&langs_count=8&theme=github_dark)
 ![trophy](https://github-profile-trophy.vercel.app/?username=amane312&theme=darkhub)
