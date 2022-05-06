@@ -1,26 +1,38 @@
-<h1 align="center">Hi there 👋 , I am  Amane Mion <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/></h1>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=amane312.visitor-badge)
 
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/amane312/contributions.svg)](http://qiita.com/amane312)
 
-## 💞👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞👠⚜️ 
+[![mono0926's github stats](https://github-readme-stats.vercel.app/api?username=amane312)](https://github.com/amane312/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amane312)](https://github.com/amane312 "trophy")
 
+### Hi there 👋 , I am Jas03mine(Amane312)   
+
+<img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
+
+### 💞👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞👠⚜️ 
 
 <p align="center">
    <img src="./photos/canvas.png" height="350" />
-<!--   <div class="tenor-gif-embed" data-postid="21134395" data-share-method="host" data-aspect-ratio="1.41593" data-width="100%"><a href="https://tenor.com/view/fuck-you-anime-glasses-office-lady-jarrel-gif-21134395">Fuck You Anime GIF</a>from <a href="https://tenor.com/search/fuck+you-gifs">Fuck You GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> -->
 </p>
 
+My name is Khatanzorig Baatarsuren. Please call me Amane 😎  
+I have about 2 or 3 year's experience in programming.  
+Currently, I work at SodMongol as Front-End developer.  
 
-[![Amane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amane312&show_icons=true&&them=&hide_title=false)](https://github.com/amane312)
+See more about me: 
 
- <h2 align="center">📫 Reach out to me on</h2>
-  <p align="center">
-    <a target="_blank"href="https://twitter.com"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:khatanzorigb@gmail.com?subject=Hey%Mion,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <!-- <a href="mailto:khatanzorigb@gmail.com?subject=Hey%Mion,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="mailto:khatanzorigb@gmail.com?subject=Hey%Mion,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
+![Dart](https://img.shields.io/badge/Dart-00b4ab.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Objective-C](https://img.shields.io/badge/Objective--c-blue.svg?style=for-the-badge&logo=objc)
 
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
+
+![Jas03mine-'s github stats](https://github-readme-stats.vercel.app/api?username=amane312&count_private=true&show_icons=true&theme=github_dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amane312&layout=compact&langs_count=8&theme=github_dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=amane312&theme=darkhub)
+
+</p> -->
 
 # About Me 
 - 🔭 Possess expertise in secure product development, superior technical
