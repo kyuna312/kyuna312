@@ -26,5 +26,3 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
-
-</p> -->
