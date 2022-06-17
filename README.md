@@ -1,8 +1,13 @@
+<div align="center">
+
+
 # Hi there 👋 , I am Mirin312(Amane312)
 
 ```javascript
 💞👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞👠⚜️ 
 ```
+
+<h2 align = "center"> <img src= "https://count.getloli.com/get/@:Amane312?theme=gelbooru-h"> </h2>
 
 <img src="./photos/wedding-day-wedding.gif" alt="This is an animated gif image, but it does not move"/>
 
@@ -11,19 +16,23 @@
 ![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
 
+-------------------
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=amane312&theme=dracula&bg_color=0d1117&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true)
+[![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/hv8of99fkkufnr5m5xxdrpto6)
+
+-------------------
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amane312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
+
+![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=amane312&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=amane312&theme=radical&include_all_commits=true&count_private=true)
+
+![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=amane312&layout=compact&theme=radical&bg_color=0d1117)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="start" src="https://github-readme-stats.vercel.app/api?username=amane312&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amane312&layout=compact&theme=midnight-purple&bg_color=0d1117" />
+  <img align="end" src="https://github-profile-trophy.vercel.app/?username=amane312&theme=radical" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-profile-trophy.vercel.app/?username=amane312&theme=darkhub" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://visitor-badge.glitch.me/badge?page_id=amane312.visitor-badge" />
-</a>
+<div>
