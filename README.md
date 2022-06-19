@@ -11,7 +11,7 @@
 
 <img src="./photos/wedding-day-wedding.gif" alt="This is an animated gif image, but it does not move"/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/Mr-xn?label=follower%20github&style=flat-square)](https://github.com/amane312)
+[![GitHub Followers](https://img.shields.io/github/followers/amane312?label=follower%20github&style=flat-square)](https://github.com/amane312)
 
 <img align='center' src="https://profile-counter.glitch.me/amane312/count.svg" width="200">
 
