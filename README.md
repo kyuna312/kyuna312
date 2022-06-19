@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi there 👋 , I am Mirin312(Amane312)
+# Hi there 👋 , I am Marin312(Amane312)
 
 ```javascript
 💞👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞👠⚜️ 
