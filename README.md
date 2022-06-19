@@ -11,12 +11,22 @@
 
 <img src="./photos/wedding-day-wedding.gif" alt="This is an animated gif image, but it does not move"/>
 
+[![GitHub Followers](https://img.shields.io/github/followers/Mr-xn?label=follower%20github&style=flat-square)](https://github.com/amane312)
+
+<img align='center' src="https://profile-counter.glitch.me/amane312/count.svg" width="200">
+
+
+-------------------
+
+
 ![Dart](https://img.shields.io/badge/Dart-00b4ab.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge&logo=flutter)
 ![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
 
--------------------
+
+
+
 
 [![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/hv8of99fkkufnr5m5xxdrpto6)
 
@@ -29,7 +39,6 @@
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=amane312&theme=radical&include_all_commits=true&count_private=true)
 
 ![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=amane312&layout=compact&theme=radical&bg_color=0d1117)
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="end" src="https://github-profile-trophy.vercel.app/?username=amane312&theme=radical" />
