@@ -40,8 +40,6 @@
 
 ![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=amane312&layout=compact&theme=radical&bg_color=0d1117)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="end" src="https://github-profile-trophy.vercel.app/?username=amane312&theme=radical" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=amane312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
