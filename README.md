@@ -32,7 +32,7 @@
 
 -------------------
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amane312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amane312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
 
 ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=amane312&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
@@ -40,6 +40,6 @@
 
 ![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=amane312&layout=compact&theme=radical&bg_color=0d1117)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amane312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=amane312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
