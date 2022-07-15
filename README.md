@@ -4,7 +4,7 @@
 # Hi there 👋 , I am Marin312(Amane312)
 
 ```javascript
-💞👠⚜️ You Can't Buy Peace And Love With Money, You Know! 💞👠⚜️ 
+💞👠⚜️  あら、雷が怖いのですか？この世で唯一無二の高貴なる者であり、最も恐ろしい雷霆の化身が、あなたのそばにいるというのに。 💞👠⚜️ 
 ```
 
 <h2 align = "center"> <img src= "https://count.getloli.com/get/@:Amane312?theme=gelbooru-h"> </h2>
