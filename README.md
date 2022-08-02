@@ -43,6 +43,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amane312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord
+
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
 
 <div>
