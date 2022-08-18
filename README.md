@@ -1,4 +1,4 @@
-![image info](photos/tumblr_f2d1ad34ced4e7b10f8264ba5f898364_97990534_640.jpg)
+![GitHub Logo](photos/tumblr_f2d1ad34ced4e7b10f8264ba5f898364_97990534_640.jpg)
 <div align="center">
 
 # Amane Maririn
