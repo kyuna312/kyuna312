@@ -1,11 +1,26 @@
+<a href="">
+    <h3 align="center">
+        <img src="photos/tumblr_f2d1ad34ced4e7b10f8264ba5f898364_97990534_640.jpg" width="150" style="border-radius: 50%;"><br>
+    </h3>
+</a>
+
 <div align="center">
 
+# Amane Maririn
 
-# Hi there 👋 , I am Marin312
+<div align="center">
+    <a href"https://github.com/maririn312?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/maririn312?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
+    </a>
+    <a href="https://twitter.com/Aquadota">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/Aquadota?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
+    </a>
+</div><br>
 
-```javascript
-💞👠⚜️  あら、雷が怖いのですか？この世で唯一無二の高貴なる者であり、最も恐ろしい雷霆の化身が、あなたのそばにいるというのに。 💞👠⚜️ 
-```
+<img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
+
 
 <h2 align = "center"> <img src= "https://count.getloli.com/get/@:Maririn312?theme=gelbooru-h"> </h2>
 
@@ -18,30 +33,27 @@
 
 -------------------
 
-
-![Dart](https://img.shields.io/badge/Dart-00b4ab.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-0175c2.svg?style=for-the-badge&logo=flutter)
-![React](https://img.shields.io/badge/React-00d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
-
-
-
-
-
 [![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/hv8of99fkkufnr5m5xxdrpto6)
 
 -------------------
 
+<h4 align="center">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&animation=spin&fill=black&textfill=bface6&">
+<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
+
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
 
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=maririn312&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
+<!-- ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=maririn312&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
 
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=maririn312&theme=radical&include_all_commits=true&count_private=true)
 
 ![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=maririn312&layout=compact&theme=radical&bg_color=0d1117)
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=maririn312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
 
