@@ -1,4 +1,8 @@
-![avatar](https://avatars.githubusercontent.com/u/31735410?s=400&u=3180e9e745915ba5197859e9d82399883048c2d5?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
+<a href="">
+    <h3 align="center">
+        <img src="photos/tumblr_f2d1ad34ced4e7b10f8264ba5f898364_97990534_640.jpg" width="150" style="border-radius: 50%;"><br>
+    </h3>
+</a>
 
 <div align="center">
 
