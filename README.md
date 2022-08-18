@@ -4,6 +4,7 @@
     </h3>
 </a>
 
+
 <div align="center">
 
 # Amane Maririn
@@ -46,7 +47,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
 
 <img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
-<!-- ![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=maririn312&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
 
 ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=maririn312&theme=radical&include_all_commits=true&count_private=true)
 
