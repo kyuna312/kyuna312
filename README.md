@@ -1,4 +1,8 @@
-![GitHub Logo](photos/tumblr_f2d1ad34ced4e7b10f8264ba5f898364_97990534_640.jpg)
+<a href="">
+    <h3 align="center">
+        <img src="photos/tumblr_f2d1ad34ced4e7b10f8264ba5f898364_97990534_640.jpg" width="150" style="border-radius: 50%;"><br>
+    </h3>
+</a>
 <div align="center">
 
 # Amane Maririn
