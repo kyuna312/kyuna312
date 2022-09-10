@@ -21,8 +21,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
 
 
-<h2 align = "center"> <img src= "https://count.getloli.com/get/@:Maririn312?theme=gelbooru-h"> </h2>
-
 <img src="./photos/wedding-day-wedding.gif" alt="This is an animated gif image, but it does not move"/>
 
 [![GitHub Followers](https://img.shields.io/github/followers/maririn312?label=follower%20github&style=flat-square)](https://github.com/amane312)
