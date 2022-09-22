@@ -25,9 +25,6 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/maririn312?label=follower%20github&style=flat-square)](https://github.com/amane312)
 
-<img align='center' src="https://profile-counter.glitch.me/Maririn312/count.svg" width="200">
-
-
 -------------------
 
 [![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/hv8of99fkkufnr5m5xxdrpto6)
