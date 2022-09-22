@@ -16,9 +16,10 @@
         <img alt="Twitter Follow" 
              src="https://img.shields.io/twitter/follow/Aquadota?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
-</div><br>
-
+    
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
+    
+</div><br>
 
 <img src="./photos/wedding-day-wedding.gif" height="600" width="600"  alt="This is an animated gif image, but it does not move"/>
 
