@@ -6,7 +6,8 @@
 <div align="center">
 
 # Amane Maririn
-
+<img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
+    
 <div align="center">
     <a href"https://github.com/maririn312?tab=followers">
         <img alt="GitHub followers" 
@@ -17,7 +18,6 @@
              src="https://img.shields.io/twitter/follow/Aquadota?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
     </a>
     
-<img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
     
 </div><br>
 
