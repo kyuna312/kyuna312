@@ -1,5 +1,5 @@
 <div>
-  <img src="https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096" class="rounded" />
+  <img src="https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096" style="border-radius: 150%;" />
 </div>
  
 <div align="center">
@@ -20,7 +20,7 @@
     
 </div><br>
 
-<img src="./photos/wedding-day-wedding.gif" height="600" width="600"  alt="This is an animated gif image, but it does not move"/>
+<img src="./photos/wedding-day-wedding.gif" style="border-radius: 150%;"  alt="This is an animated gif image, but it does not move"/>
 
 [![GitHub Followers](https://img.shields.io/github/followers/maririn312?label=follower%20github&style=flat-square)](https://github.com/amane312)
 
