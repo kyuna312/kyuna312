@@ -1,6 +1,6 @@
 <a href="">
     <h3 align="center">
-        <img src="photos/tumblr_f2d1ad34ced4e7b10f8264ba5f898364_97990534_640.jpg" width="150" height = "150" style="border-radius: 150%;"><br>
+        <img src="https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096" width="250" height = "250" style="border-radius: 190%;"><br>
     </h3>
 </a>
 <div align="center">
