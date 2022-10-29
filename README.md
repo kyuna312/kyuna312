@@ -1,8 +1,7 @@
-<a href="">
-    <h3 align="center">
-        <img src="https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096" style="border-radius: 30px;"><br>
-    </h3>
-</a>
+<div align="center">
+  <img src="https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096" style="border-radius: 30px;" />
+</div>
+
 <div align="center">
 
 # Amane Maririn
