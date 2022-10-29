@@ -2,6 +2,8 @@
   <img src="https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096" style="border-radius: 30px;" />
 </div>
 
+![avatar]([https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65769327?v=4&h=300&w=300](https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096)&fit=cover&mask=circle&maxage=7d)
+
 <div align="center">
 
 # Amane Maririn
