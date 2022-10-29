@@ -22,7 +22,7 @@
 
 ## 🔥 Github Stats
 
-<img src="https://i.imgur.com/VxANS89.jpg](https://pbs.twimg.com/media/FgPGzjIVIAEWI5d?format=jpg&name=large)"/>
+<img src="https://pbs.twimg.com/media/FgPGzjIVIAEWI5d?format=jpg&name=large"/>
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
@@ -43,11 +43,13 @@
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
 
+<img src="./photos/wedding-day-wedding.gif" style="border-radius: 150%;"  alt="This is an animated gif image, but it does not move"/>
+
 
 ## 🎮 Try pressing the buttons and come back down
 
 <div style="background:white;">
-<img src="https://toy.aoaoao.me/image" width="300"/> 
+<img src="https://toy.aoaoao.me/image" /> 
 
 
 <br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
@@ -69,11 +71,3 @@
     
     
 </div><br>
-
-<img src="./photos/wedding-day-wedding.gif" style="border-radius: 150%;"  alt="This is an animated gif image, but it does not move"/>
-
-[![GitHub Followers](https://img.shields.io/github/followers/maririn312?label=follower%20github&style=flat-square)](https://github.com/amane312)
-
--------------------
-
-[![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/hv8of99fkkufnr5m5xxdrpto6)
