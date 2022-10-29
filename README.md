@@ -20,30 +20,9 @@
 # Amane Maririn
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
 
-<div>
-<details>
-  <summary>🧑 More about me</summary>
-
-- 🔭 I’m currently on a journey to build **great** things
-
-- 🌱 I’m currently learning **everything** 🤓
-
-- 🤝 I’m looking for help with **finding projects to contribute to!**
-
-- 👨‍💻 All of my projects are available at [miaxu.co](https://miaxu.co)
-
-- 💬 Ask me about **open source, web development, and community management**
-
-- 📫 Reach me out at **contact@miaxu.co**
-
-</details>
-  
-</p>
- 
-
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg](https://pbs.twimg.com/media/FgPGzjIVIAEWI5d?format=jpg&name=large)"/>
+<img src="https://i.imgur.com/VxANS89.jpg](https://pbs.twimg.com/media/FgPGzjIVIAEWI5d?format=jpg&name=large)"/>
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
@@ -64,9 +43,6 @@
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
 
-<!--   <a href="https://github.com/Giingu"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Giingu&theme=radical&title_color=ff3068"></a>
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Giingu&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a> -->
-
 
 ## 🎮 Try pressing the buttons and come back down
 
@@ -80,15 +56,6 @@
 <br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
   </div>
 
-
-<!-- <div>
-  <img src="https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096" style="border-radius: 150%;" />
-</div>
- 
-<div align="center"> -->
-
-<!-- # Amane Maririn
-<img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;"> -->
     
 <div align="center">
     <a href"https://github.com/maririn312?tab=followers">
@@ -110,26 +77,3 @@
 -------------------
 
 [![Spotify](https://now-playing-ten-rho.vercel.app/api/spotify-playing)](https://open.spotify.com/user/hv8of99fkkufnr5m5xxdrpto6)
-
--------------------
-<!-- 
-<h4 align="center">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
-
-<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
-
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=maririn312&theme=radical&include_all_commits=true&count_private=true)
-
-![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=maririn312&layout=compact&theme=radical&bg_color=0d1117)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maririn312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
-<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
-
-<div> -->
