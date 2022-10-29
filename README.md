@@ -57,9 +57,6 @@
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
 
-<img src="./photos/wedding-day-wedding.gif" style="border-radius: 150%;"  alt="This is an animated gif image, but it does not move"/>
-
-
 ## 🎮 Try pressing the buttons and come back down
 
 <div style="background:white;">
