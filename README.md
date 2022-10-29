@@ -1,5 +1,3 @@
-<!-- ![anime]("https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096")
- -->
 <div>
   <img src="https://pbs.twimg.com/media/Ff_yYWmakAADX7l?format=jpg&name=4096x4096" class="rounded" />
 </div>
