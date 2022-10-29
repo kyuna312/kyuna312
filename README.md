@@ -23,6 +23,20 @@
 ## 🔥 Github Stats
 
 <img src="https://pbs.twimg.com/media/FgPGzjIVIAEWI5d?format=jpg&name=large"/>
+  
+      
+<div align="center">
+    <a href"https://github.com/maririn312?tab=followers">
+        <img alt="GitHub followers" 
+             src="https://img.shields.io/github/followers/maririn312?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
+    </a>
+    <a href="https://twitter.com/Aquadota">
+        <img alt="Twitter Follow" 
+             src="https://img.shields.io/twitter/follow/Aquadota?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
+    </a>
+    
+    
+</div><br>
 
 <h4 align="center">
 <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
@@ -57,17 +71,3 @@
 <br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
 <br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
   </div>
-
-    
-<div align="center">
-    <a href"https://github.com/maririn312?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/maririn312?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
-    </a>
-    <a href="https://twitter.com/Aquadota">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/Aquadota?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
-    </a>
-    
-    
-</div><br>
