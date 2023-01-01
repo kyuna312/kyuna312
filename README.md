@@ -1,16 +1,17 @@
-<a href="https://discord.gg/shiba"><img src="https://pbs.twimg.com/media/FgK3ZAuacAA0FYW?format=jpg&name=large" width="100%" height="auto"/></a>
+<a href="https://discord.gg/shiba">
+  <img src="https://pbs.twimg.com/media/FlV7MUpXkAYBGRj?format=png&name=large" width="100%" height="auto"/></a>
 <p align="center">
-  <a href="https://www.youtube.com"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/channel/UCCRv0-qH90y_BjYFFFvMwPQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/mior1n312"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.com/channels/896373208670933053/896373209585319947" alt="Join our community"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.patreon.com"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <!-- <a href="https://dev.to"><img width="32px" alt="Dev.to" title="Giingu Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <!-- <a href="https://ko-fi.com"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287; -->
+  <!-- <a href="https://www.patreon.com"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
 <br/>
@@ -21,21 +22,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
 
 ## 🔥 Github Stats
-
-<img src="https://pbs.twimg.com/media/FgPGzjIVIAEWI5d?format=jpg&name=large"/>
-  
-      
+     
 <div align="center">
     <a href"https://github.com/maririn312?tab=followers">
         <img alt="GitHub followers" 
              src="https://img.shields.io/github/followers/maririn312?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
     </a>
-    <a href="https://twitter.com/Aquadota">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/Aquadota?colorB=c6aae8&colorA=1e1e28&label=Follow&logo=twitter&logoColor=white&style=for-the-badge">
-    </a>
-    
-    
 </div><br>
 
 <h4 align="center">
@@ -56,15 +48,3 @@
 </p>
 
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
-
-## 🎮 Try pressing the buttons and come back down
-
-<div style="background:white;">
-<img src="https://toy.aoaoao.me/image" /> 
-
-
-<br><a href="https://toy.aoaoao.me/control?button=2&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/up.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=1&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/left.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=0&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/right.png" width="35"/></a><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=5&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/B.png" width="35"/></a> <a href="https://toy.aoaoao.me/control?button=4&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/A.png" width="35"/></a>
-<br><a href="https://toy.aoaoao.me/control?button=3&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/down.png" width="35"/></a>
-<br><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/blank.png" width="35"/><a href="https://toy.aoaoao.me/control?button=6&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/select.png" height="35"/></a> <a href="https://toy.aoaoao.me/control?button=7&callback=https://github.com/Giingu"><img src="https://raw.githubusercontent.com/Giingu/Giingu/main/images/start.png" height="35" /></a>
-  </div>
