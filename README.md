@@ -20,8 +20,6 @@
 
 # Amane Maririn
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
-
-## 🔥 Github Stats
      
 <div align="center">
     <a href"https://github.com/maririn312?tab=followers">
@@ -36,7 +34,7 @@
 <img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&"> -->
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p> -->
 
 <img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
 
