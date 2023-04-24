@@ -21,11 +21,6 @@
 # Amane Maririn
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
      
-<div align="center">
-    <a href"https://github.com/maririn312?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/maririn312?colorA=1e1e28&colorB=c9cbff&logo=Github&style=for-the-badge" />
-    </a>
 </div><br>
 
 <h4 align="center">
