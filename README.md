@@ -16,19 +16,25 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%237759B5&center=true&vCenter=true&lines=💞👠⚜️あら%2C+雷が怖いのですか?;この世で唯一無二の高貴なる者であり,;最も恐ろしい雷霆の化身が、;あなたのそばにいるというのに。;💞👠⚜️;">
 
 <h1 align="center">
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  
+</h1>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
-
-
-<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
-
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=maririn312&theme=radical&include_all_commits=true&count_private=true)
-
-![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=maririn312&layout=compact&theme=radical&bg_color=0d1117)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=maririn312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
 </p>
 
+<p align="center">
+  ![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=maririn312&theme=radical&include_all_commits=true&count_private=true)
+</p>
 
+<p align="center">
+  ![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=maririn312&layout=compact&theme=radical&bg_color=0d1117)
+</p>
 
-<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=maririn312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
+<p align="center">
+  <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
+</p>
