@@ -20,24 +20,24 @@
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=020e27&color=e86800&line=e86800&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
 <p align="center">
-  <img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff" alt="GitHub Stats">
+  <img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=0c345c&tc=ffb700&ic=ffffff&bc=020e27" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maririn312&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maririn312&theme=midnight-purple&include_all_commits=true&count_private=true" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maririn312&layout=compact&theme=radical&bg_color=0d1117" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maririn312&layout=compact&theme=midnight-purple&bg_color=020e27" alt="Top Languages">
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=maririn312&theme=radical&margin-w=2&margin-h=2&column=4" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=maririn312&theme=nord&margin-w=2&margin-h=2&column=4" alt="GitHub Trophies">
   </a>
 </p>
 
