@@ -1,5 +1,5 @@
 <a href="https://discord.gg/shiba">
-  <img src="https://pbs.twimg.com/profile_banners/1095708486506168320/1672305207/1500x500" width="100%" height="auto"/>
+  <img src="https://pbs.twimg.com/media/El0NqHuVoAAO3gs?format=jpg&name=large" width="100%" height="auto"/>
 </a>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCCRv0-qH90y_BjYFFFvMwPQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
