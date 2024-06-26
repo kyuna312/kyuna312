@@ -17,16 +17,16 @@
 
 <h1 align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maririn312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kyuna312&bg_color=dracula&color=b346c4&line=b346c4&point=ffffff&area=true&hide_border=true)  </p>
 
 
-<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=maririn312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
+<img id="fatalperfil" src="https://github-stats-alpha.vercel.app/api/?username=kyuna312&cc=141321&tc=FF1493&ic=9c6bff&bc=ffffff"/>
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=maririn312&theme=radical&include_all_commits=true&count_private=true)
+![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=kyuna312&theme=radical&include_all_commits=true&count_private=true)
 
-![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=maririn312&layout=compact&theme=radical&bg_color=0d1117)
+![LachlanDev github streak](https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna312&layout=compact&theme=radical&bg_color=0d1117)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=maririn312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kyuna312&theme=radical&margin-w=2&margin-h=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 
