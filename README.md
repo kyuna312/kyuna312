@@ -13,7 +13,7 @@
 
 # 京奈霜花 (Kyuna Shimoka)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%9E%E2%9C%9D%EF%B8%8F%F0%9F%91%A0+%E3%81%A0%E3%81%8B%E3%82%89%E7%A7%81%E3%81%AF%E4%BB%8A%E6%97%A5%E3%82%82%E5%98%98%E3%82%92%E5%90%90%E3%81%8F%E5%98%98%E3%81%8C%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%AA%E3%82%8B%E4%BA%8B%E3%82%92%E4%BF%A1%E3%81%98%E3%81%A6%E3%81%9D%E3%81%AE%E4%BB%A3%E5%84%9F%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%E8%A8%AA%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E3%80%82%F0%9F%92%9E%E2%9C%9D%EF%B8%8F%F0%9F%91%A0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=50&pause=1000&width=2435&height=200&lines=%F0%9F%92%9E%E2%9C%9D%EF%B8%8F%F0%9F%91%A0+%E3%81%A0%E3%81%8B%E3%82%89%E7%A7%81%E3%81%AF%E4%BB%8A%E6%97%A5%E3%82%82%E5%98%98%E3%82%92%E5%90%90%E3%81%8F%E5%98%98%E3%81%8C%E6%9C%AC%E5%BD%93%E3%81%AB%E3%81%AA%E3%82%8B%E4%BA%8B%E3%82%92%E4%BF%A1%E3%81%98%E3%81%A6%E3%81%9D%E3%81%AE%E4%BB%A3%E5%84%9F%E3%81%8C%E3%81%84%E3%81%A4%E3%81%8B%E8%A8%AA%E3%82%8C%E3%82%8B%E3%81%A8%E3%81%97%E3%81%A6%E3%82%82%E3%80%82%F0%9F%92%9E%E2%9C%9D%EF%B8%8F%F0%9F%91%A0" alt="Typing SVG" /></a>
 
 <h1 align="center">
 
