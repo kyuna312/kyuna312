@@ -1,153 +1,64 @@
 <div align="center">
 
-# ❄️ Kyuna0312
+# ❄️ 霜花 · Kyuna
 
-**Embedded Engineer · Fullstack Engineer · System Architect**
+**Systems & Developer Tooling Engineer** — from Mongolia 🇲🇳
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+I build developer environments, editors, low-level experiments, and open-source tools
+using **Rust, C/C++, Lua, and TypeScript**.
 
-*"The Yotsuba clan does not compete. It dominates."*
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-kyuna--web.vercel.app-0d1117?style=flat&logo=vercel&logoColor=white)](https://kyuna-web.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kyuna0312)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kyuna0312)
-[![Web](https://img.shields.io/badge/Web-kyuna--web.vercel.app-0d1117?style=flat&logo=vercel&logoColor=white)](https://kyuna-web.vercel.app/)
+
+EN | 日本語 | Монгол
 
 </div>
 
 ---
 
-## ❄️ Profile
+## What I build
+
+- **Developer environments & editor tooling** — a NeoVim distribution, cross-OS dotfiles, terminal workflows
+- **Low-level systems** — a version-control system in C++, OS and game-engine experiments in Rust
+- **Web products, end to end** — Next.js/TypeScript applications, shipped and multilingual
+
+## Selected projects
+
+| Project | What it is |
+|---------|------------|
+| [dotfiles](https://github.com/kyuna0312/dotfiles) | Cross-OS development environment with an install system and one design system unifying every tool |
+| [NyanVim](https://github.com/kyuna0312/NyanVim) | A personal NeoVim distribution with CI, an installer, benchmarks, and health checks |
+| [kit-vcs](https://github.com/kyuna0312/kit-vcs) | A Git-inspired version-control system in C++ — object storage, commits, and branching |
+| [hunnu-lang](https://github.com/hunnu-labs/hunnu-lang) | A programming language built for clarity, safety, and performance |
+
+**Also building:** [kyuna_web](https://github.com/kyuna0312/kyuna_web) (trilingual portfolio, Next.js) ·
+[InariWrite](https://github.com/NyanLinux/InariWrite) (open-source Markdown editor) ·
+[nyanko_engine](https://github.com/kyuna0312/nyanko_engine) (Rust game engine)
+
+## Current focus
+
+Deepening the low-level track — language design with hunnu-lang, OS experiments in Rust —
+and packaging NyanVim and dotfiles into properly documented, installable releases.
+
+## Stack
 
 ```
-IDENTITY:   Kyuna (kyuna0312)
-ROLE:       Systems Architect
-FOCUS:      Low-level systems × Web infrastructure × AI workflow
-STATUS:     Active development
+Rust · C/C++ · Lua · TypeScript · Go · Python
+Neovim · tmux · zsh · Linux · Docker
+React · Next.js · NestJS · PostgreSQL · GraphQL
 ```
 
-Embedded and fullstack engineer specializing in systems architecture. Building robust foundations — from VCS tooling to full-stack web systems.
+## Contact
+
+Fastest: the contact form on [kyuna-web.vercel.app](https://kyuna-web.vercel.app/) — or DM on [X](https://x.com/kyuna0312).
 
 ---
-
-## ⚡ Abilities
-
-### 🧊 Core Languages
-```
-TypeScript · Rust · Go · C++/C · Python · Lua
-```
-
-### 🧠 Frameworks
-```
-React · Next.js · Vite · NestJS · Spring Boot · Laravel
-```
-
-### ⚙️ Systems & Tools
-```
-Custom monorepo tooling · VCS architecture · Embedded Linux
-PostgreSQL · MySQL · GraphQL · Docker · Neovim · tmux · zsh
-```
-
----
-
-## 🜂 Organizations
-
-| Organization | Purpose |
-|--------------|----------|
-| [kyuna_web](https://github.com/kyuna0312/kyuna_web) | TypeScript/JavaScript applications |
-| [dotfiles](https://github.com/kyuna0312/dotfiles) | Configuration management |
-| [InariWrite](https://github.com/kyuna0312/InariWrite) | AI-assisted comic creation tooling |
-
----
-
-## 🧬 Project Archive
-
-### ⚔️ Core Systems
-| Project | Description |
-|---------|-------------|
-| [kit-vcs](https://github.com/kyuna0312/kit-vcs) | Custom VCS implementation |
-| [custom-monorepo](https://github.com/kyuna0312/custom-monorepo) | Monorepo tooling system |
-
-### 🧠 AI / Workflow Systems
-| Project | Description |
-|---------|-------------|
-| [InariWrite](https://github.com/kyuna0312/InariWrite) | AI comic pipeline (TS/Rust) |
-| [ai-workflow](https://github.com/kyuna0312/ai-workflow) | AI-assisted dev pipeline |
-| [NyanVim](https://github.com/kyuna0312/NyanVim) | Neovim configuration |
-
-
-### 🌐 Web Systems
-| Project | Description |
-|---------|-------------|
-| [kyuna_web](https://github.com/kyuna0312/kyuna_web) | Portfolio · Next.js · i18n |
-| [kyuna_web](https://github.com/kyuna0312/LogicNomad)| MonoRepo · Vite React  Nest.js · i18n |
-| [kyuna_web](https://github.com/kyuna0312/madoka) | Sass · React |
-
-### 🧪 Experimental
-| Project | Description |
-|---------|-------------|
-| [research-embedded](https://github.com/kyuna0312/research-embedded) | Embedded systems research |
-| [sandbox](https://github.com/kyuna0312/sandbox) | Experimental playground |
-
----
-
-## ⚔️ Featured Projects
 
 <p align="center">
-  <a href="https://github.com/kyuna0312/kit-vcs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=kit-vcs&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/kyuna0312/kyuna_web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=kyuna_web&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/hunnu-labs/hunnu-lang">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hunnu-labs&repo=hunnu-lang&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/kyuna0312/NyanVim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kyuna0312&repo=NyanVim&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
----
-
-## ❄️ GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyuna0312&theme=transparent&hide_border=true&show_icons=true" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyuna0312&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna0312&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyuna0312&layout=compact&theme=transparent&hide_border=true" alt="Languages" />
-</p>
-
----
-
-## 🧬 Philosophy
-
-> *"I don't chase trends. I build systems that outlive them."*
-
-> *Architecture is not about features. It's about control.*
-
----
-
-## 🔗 Contact
-
-<p align="center">
-  <a href="https://github.com/kyuna0312">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://x.com/kyuna0312">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-<sub>❄️ Kyuna — Systems Architect ❄️</sub>
+<sub>❄️ 霜花 — frost flower: the ice that blooms on winter glass.</sub>
 </p>
